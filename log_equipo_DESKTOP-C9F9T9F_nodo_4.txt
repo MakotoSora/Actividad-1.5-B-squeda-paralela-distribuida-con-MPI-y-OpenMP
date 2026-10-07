@@ -1,0 +1,6 @@
+Hermosillo Prado Carlos | Montes de Oca del Risco Rafael Alejandro | Ramirez Andrade Uriel Ismael Guadalupe
+[Equipo: Equipo X] [PC: DESKTOP-C9F9T9F] [Nodo MPI: 4] [Hilo OpenMP: 0] Inicio de sesion | CPU: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel | Nucleos: 8 | Hilos OpenMP: 8 | Procesos MPI: 5
+[Equipo: Equipo X] [PC: DESKTOP-C9F9T9F] [Nodo MPI: 4] [Hilo OpenMP: 0] Arreglo de 10000000 elementos | Impresiones detalladas: NO
+[Equipo: Equipo X] [PC: DESKTOP-C9F9T9F] [Nodo MPI: 4] [Hilo OpenMP: 0] [Busqueda Secuencial] Resultado del nodo: Encontrado en indice global 9999999 | Tiempo comunicacion: 4.830141 s | Tiempo total respuesta: 4.833462 s
+[Equipo: Equipo X] [PC: DESKTOP-C9F9T9F] [Nodo MPI: 4] [Hilo OpenMP: 0] [Busqueda Binaria] Resultado del nodo: Encontrado en indice global 9999999 | Tiempo comunicacion: 2.877493 s | Tiempo total respuesta: 2.877616 s
+Hermosillo Prado Carlos | Montes de Oca del Risco Rafael Alejandro | Ramirez Andrade Uriel Ismael Guadalupe

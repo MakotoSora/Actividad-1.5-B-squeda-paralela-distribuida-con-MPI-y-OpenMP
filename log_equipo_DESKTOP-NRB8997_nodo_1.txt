@@ -1,0 +1,6 @@
+Hermosillo Prado Carlos | Montes de Oca del Risco Rafael Alejandro | Ramirez Andrade Uriel Ismael Guadalupe
+[Equipo: Equipo X] [PC: DESKTOP-NRB8997] [Nodo MPI: 1] [Hilo OpenMP: 0] Inicio de sesion | CPU: Intel64 Family 6 Model 61 Stepping 4, GenuineIntel | Nucleos: 4 | Hilos OpenMP: 4 | Procesos MPI: 5
+[Equipo: Equipo X] [PC: DESKTOP-NRB8997] [Nodo MPI: 1] [Hilo OpenMP: 0] Arreglo de 10000000 elementos | Impresiones detalladas: NO
+[Equipo: Equipo X] [PC: DESKTOP-NRB8997] [Nodo MPI: 1] [Hilo OpenMP: 0] [Busqueda Secuencial] Resultado del nodo: NO ENCONTRADO | Tiempo comunicacion: 3.179716 s | Tiempo total respuesta: 3.180809 s
+[Equipo: Equipo X] [PC: DESKTOP-NRB8997] [Nodo MPI: 1] [Hilo OpenMP: 0] [Busqueda Binaria] Resultado del nodo: NO ENCONTRADO | Tiempo comunicacion: 2.702658 s | Tiempo total respuesta: 2.702664 s
+Hermosillo Prado Carlos | Montes de Oca del Risco Rafael Alejandro | Ramirez Andrade Uriel Ismael Guadalupe
